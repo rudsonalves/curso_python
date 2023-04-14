@@ -38,3 +38,4 @@ if __name__ == '__main__':
 
     # 3. criar uma função para imprimir as estatíticas do personagem
     # 4. Gerar 10 personagens
+    # 5. fazer a execução pela linha de comando entrando quantos personagens irá gerar.
