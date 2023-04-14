@@ -1,0 +1,13 @@
+Instalar:
+
+python3
+
+Visual Studio Code
+
+https://jupyter.org/install
+
+pip install jupyterlab
+
+jupyter-lab
+
+jupyter notebook
