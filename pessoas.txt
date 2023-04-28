@@ -1,0 +1,6 @@
+Nome: Ana, Idade: 28
+Nome: Solange, Idade: 25
+Nome: Roberta, Idade: 18
+Nome: Carla, Idade: 32
+Nome: João, Idade: 52
+Nome: José, Idade: 26
